@@ -1,0 +1,9 @@
+{
+  "title": "Cat is sleeping.",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam maximus tellus ut dui accumsan interdum. Cras tristique purus non nibh porttitor, et facilisis tellus euismod. Aenean et semper mauris, euismod tristique metus. Suspendisse iaculis ipsum non nisi laoreet lacinia.",
+  "contract": "0x99dd24b64215b03ea09636e4ac492d54ac2673ce",
+  "type": "image",
+  "files": {
+    "image": "https://raw.githubusercontent.com/TokenineDev/mockup-json/main/img/john-mark-smith-unsplash.jpg"
+  }
+}
